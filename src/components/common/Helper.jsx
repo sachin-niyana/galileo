@@ -3,19 +3,19 @@ import { Discord, Linkedin, Telegram, Twitter } from "./Icon";
 export const footerIcons = [
   {
     icon: <Linkedin />,
-    src: "https://x.com/",
+    src: "https://www.linkedin.com/",
   },
   {
     icon: <Discord />,
-    src: "https://www.facebook.com/",
+    src: "https://www.discord.com/",
   },
   {
     icon: <Telegram />,
-    src: "https://www.instagram.com/",
+    src: "https://web.telegram.org/k/",
   },
   {
     icon: <Twitter />,
-    src: "https://www.linkedin.com/",
+    src: "https://x.com/",
   },
 ];
 export const footerLinks = [
